@@ -1,0 +1,28 @@
+#text{
+    text-align: justify;
+}
+
+:root{
+    --blue00:hsl(207, 65%, 5%);
+    --blue01:#091b2a;
+    --blue02:hsl(207, 65%, 30%);
+    --blue03:hsl(207, 65%, 40%);
+    --blue04:hsl(207, 65%, 50%);
+    --blue04:hsl(207, 65%, 60%);
+    --blue05:hsl(207, 65%, 70%);
+    --blue06:hsl(207, 65%, 80%);
+    --pink: #dc143c;
+    --white01: #FFF;
+}
+
+
+.bg-nav{background-color: var(--blue00);}
+
+.bg-blue01{background-color: var(--blue01);}
+
+.text-pink{color: var(--pink);}
+
+.text-white01{color: var(--white01);}
+
+
+
