@@ -2,6 +2,8 @@
     text-align: justify;
 }
 
+
+
 :root{
     --blue00:hsl(207, 65%, 5%);
     --blue01:#091b2a;
@@ -21,6 +23,8 @@
 .bg-blue01{background-color: var(--blue01);}
 
 .text-pink{color: var(--pink);}
+
+.text-blue02{color: var(--blue02);}
 
 .text-white01{color: var(--white01);}
 
