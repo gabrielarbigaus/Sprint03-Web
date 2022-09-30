@@ -20,6 +20,10 @@ textarea{
     --white01: #FFF;
 }
 
+.bg-image{
+    background-image: url(../img/Produto/pexels-pixabay-417054.jpg);
+}
+
 
 .bg-nav{background-color: var(--blue00);}
 
