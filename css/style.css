@@ -24,10 +24,16 @@ textarea{
     background-image: url(../img/Produto/pexels-pixabay-417054.jpg);
 }
 
+.bg-imageSocio{
+    background-image: url(../img/img-socio/cars.jpg);
+}
+
 
 .bg-nav{background-color: var(--blue00);}
 
 .bg-blue01{background-color: var(--blue01);}
+
+.bg-blue02{background-color: var(--blue02);}
 
 .text-pink{color: var(--pink);}
 
